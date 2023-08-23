@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057801747329",
+    "project_id": "proximity-chat-app-1daad",
+    "storage_bucket": "proximity-chat-app-1daad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057801747329:android:e206a1f7f914992c0b4680",
+        "android_client_info": {
+          "package_name": "com.hebert.proximitychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057801747329-44at7oqs8ck75sq9f6s8r66jn94q3ber.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW8vGDisyNmq9oScf1a71gWmkPtkK8YgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057801747329-44at7oqs8ck75sq9f6s8r66jn94q3ber.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

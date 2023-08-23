@@ -1,4 +1,4 @@
-package com.proximitychatapp;
+package com.hebert.proximitychatapp;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
